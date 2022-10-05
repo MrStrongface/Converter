@@ -1,0 +1,17 @@
+.Header{
+    margin: 0 auto;
+    height: 100px;
+    width: 80%;
+    text-align: center center;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px ;
+    font-weight: bold;
+    
+}
+.ptext{
+    font-size: 25px;
+    margin: 0;
+    font-weight: bold;
+   
+}
